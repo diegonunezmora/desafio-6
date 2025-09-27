@@ -1,0 +1,10 @@
+body {
+  scroll-behavior: smooth;
+}
+
+.foto-perfil {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border: 2px solid #fff;
+}
